@@ -3,7 +3,7 @@ import pygame
 import sys
 
 pygame.mixer.init()
-sound = pygame.mixer.Sound("audio.mp3")
+sound = pygame.mixer.Sound("./audio.mp3")
 
 command = ["sudo", "mode2", "-d", "/dev/lirc0", "-m"]
 
