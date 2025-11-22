@@ -3,5 +3,5 @@
 ## Тестировалось на OrangePI Zero 3 с debian и платой расширения SHCHV
 
 ```
-git clone https://github.com/shash29exe/lirc_sound.git && sudo python3 main.py
+git clone https://github.com/shash29exe/lirc_sound.git && cd lirc_sount && sudo python3 main.py
 ```
